@@ -1,1 +1,1 @@
-git�R�}���h�̃e�X�g
+git コマンドのテスト
